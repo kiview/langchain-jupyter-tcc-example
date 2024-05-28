@@ -22,4 +22,4 @@ jupyter lab
 
 Open the notebook `gpu.ipynb` and run the cells.
 You will see an Ollama Docker container being started, including GPU access.
-It will wired up using LangChain and you can interatively explore the framework and model.
+It will be wired up using LangChain and you can interactively explore the framework and model.
